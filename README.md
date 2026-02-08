@@ -50,8 +50,8 @@ const sanabriahdz = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanabriahdz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanabriahdz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanabriahdz&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanabriahdz&theme=radical&utcOffset=8" alt="Productive Time" height="180" />
 </div>
 
 <div align="center">
