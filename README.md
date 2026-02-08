@@ -64,14 +64,10 @@ const sanabriahdz = {
 
 <br>
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Profile Summary
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanabriahdz&theme=radical" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sanabriahdz&layout=compact&theme=radical&hide_border=true" alt="Coding Activity" />
 </div>
 
 <br>
