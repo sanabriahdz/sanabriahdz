@@ -51,7 +51,7 @@ const sanabriahdz = {
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanabriahdz&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanabriahdz&theme=radical&utcOffset=8" alt="Productive Time" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanabriahdz&theme=radical" alt="Productive Time" height="180" />
 </div>
 
 <div align="center">
