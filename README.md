@@ -51,7 +51,7 @@ const sanabriahdz = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanabriahdz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanabriahdz&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanabriahdz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
@@ -68,6 +68,11 @@ const sanabriahdz = {
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanabriahdz&theme=radical" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanabriahdz&theme=radical" alt="Repos Per Language" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanabriahdz&theme=radical" alt="Most Commit Language" height="200" />
 </div>
 
 <br>
